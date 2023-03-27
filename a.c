@@ -12,7 +12,7 @@ for(int j=1;j<=i;j++){
  
 }
 if(c==2){
-  printf("%d",i);
+  printf("%d and i",i);
 }
  }
 
