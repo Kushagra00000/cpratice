@@ -10,7 +10,7 @@ void somethings(int* arr,int n)
 {
     for(int i=0;i<n;i++)
     {
-        printf("%d \t",arr[i]);
+        printf("%d is the changed and that  \t",arr[i]);
     }
     printf("\n");
     }
